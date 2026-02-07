@@ -1,0 +1,1 @@
+Just a playground to deepen knowledge in Go
