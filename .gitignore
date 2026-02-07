@@ -1,0 +1,44 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Build output
+/bin/
+/dist/
+/build/
+
+# Go workspace file
+go.work
+
+# Vendor (optional: commit it if you rely on vendoring)
+vendor/
+
+# Coverage reports
+*.cover
+coverage.out
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs/editors
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Env files
+.env
+.env.local
+
+# Temporary files
+tmp/
+temp/
